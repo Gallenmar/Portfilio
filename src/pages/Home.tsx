@@ -24,22 +24,19 @@ function Home() {
 							About Me
 						</Typography>
 						<Typography variant="body1">
-							Hi, I’m Nikita Plotnikov. I am passionate about technology,
-							coding, and solving problems through innovative solutions. With a
-							strong background in software development and a love for
-							continuous learning, I aim to build impactful projects and
-							contribute to the tech community. When I’m not coding, you can
-							find me exploring new technologies, working on personal projects,
-							or enjoying outdoor activities.
+							Hi, I’m Nikita Plotnikov, a tech enthusiast and final-year student
+							at RTU’s Computer Science Faculty. My journey has taken me through
+							everything from fun projects with friends to smart city concepts,
+							always in pursuit of the next challenge. I love working in teams,
+							where my perfectionism and attention to detail ensure we achieve
+							excellence, all while keeping a positive vibe. Outside of coding,
+							you’ll find me diving into a good book or carving down the slopes
+							on a ski trip. Whether it’s a tech project or a weekend hike, I’m
+							all about balance – except when it comes to tech. Tech is life.
 						</Typography>
 					</Box>
 				</Stack>
 			</Box>
-			{/* <Box sx={{ backgroundColor: "primary.dark", padding: 2 }}>
-				<Button variant="contained" color="info">
-					Info Button
-				</Button>
-			</Box> */}
 		</>
 	);
 }

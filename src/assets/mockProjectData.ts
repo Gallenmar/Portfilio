@@ -42,6 +42,17 @@ export const mockProjectData = [
 			"https://github.com/user-attachments/assets/7a3f56e4-e6ef-4162-93d1-e8584aecd7da",
 	},
 	{
+		id: 869821019,
+		name: "Portfilio",
+		description:
+			"A small portfolio website for practice with Ract, TypeScript, Redux and API calls.",
+		html_url: "https://github.com/Gallenmar/Portfilio",
+		readme_content:
+			"# Portfilio\n A small portfolio website for practice with Ract, TypeScript, Redux and API calls.\n \n![image](https://github.com/user-attachments/assets/01291b56-3f5b-4fa7-ae5e-53ae0efd32bc)\n",
+		first_image_url:
+			"https://github.com/user-attachments/assets/01291b56-3f5b-4fa7-ae5e-53ae0efd32bc",
+	},
+	{
 		id: 616180788,
 		name: "PyClock",
 		description: "A small project to practice with python language.",
@@ -68,7 +79,7 @@ export const mockProjectData = [
 			"This app helps a group of people manage money flows between each other.",
 		html_url: "https://github.com/Gallenmar/Splitify",
 		readme_content:
-			"## Travel Calculator\nThis project uses React Native to help a group of people manage money flows between each other.\n\nManaging group expenses just got easier! Whether you’re out with friends, sharing rent with roommates, or organizing a trip, Splitify helps you track and settle debts in the simplest way possible. No more complex calculations or awkward reminders—Splitify ensures everyone pays their fair share.\n\nKey Features:\n\nAdd Friends Easily: Start by adding your group members with just a tap.\nTrack Expenses: Record who paid, who benefited, and Splitify will calculate the rest.\nAutomatic Debt Calculation: Instantly see who owes what, so there’s no more confusion.\nTransaction History: Keep a record of all past transactions for full transparency.\nClean Interface: Simple, intuitive design that makes splitting expenses stress-free.\nPerfect for group outings, rent sharing, travel expenses, or any shared costs with friends! Get rid of the hassle of manually tracking debts—let Splitify do the work for you!\n\nWhy Splitify?\n\nSave Time: Automated calculations save you from doing the math.\nTransparency: Everyone can see who owes what, so there’s no miscommunication.\nFlexibility: Add, edit, and manage group members and transactions effortlessly.\nDownload Splitify now and make splitting expenses a breeze!\n![image](https://github.com/user-attachments/assets/8bc482d7-5d10-4913-8eea-5d203351d94b)   ![image](https://github.com/user-attachments/assets/f5bc8ce9-e805-4e95-a79b-220ae400af8d) ![image](https://github.com/user-attachments/assets/31922eeb-9a4a-4f7f-96b0-82c1b04fd13a) ![image](https://github.com/user-attachments/assets/a3a318b7-ecec-4bc5-9767-b096b2723fee)\n\n\n\n\n\n",
+			"## Travel Calculator\nThis project uses React Native to help a group of people manage money flows between each other.\n\nManaging group expenses just got easier! Whether you’re out with friends, sharing rent with roommates, or organizing a trip, Splitify helps you track and settle debts in the simplest way possible. No more complex calculations or awkward reminders—Splitify ensures everyone pays their fair share.\n\nKey Features:\n\nAdd Friends Easily: Start by adding your group members with just a tap.\nTrack Expenses: Record who paid, who benefited, and Splitify will calculate the rest.\nAutomatic Debt Calculation: Instantly see who owes what, so there’s no more confusion.\nTransaction History: Keep a record of all past transactions for full transparency.\nClean Interface: Simple, intuitive design that makes splitting expenses stress-free.\nPerfect for group outings, rent sharing, travel expenses, or any shared costs with friends! Get rid of the hassle of manually tracking debts—let Splitify do the work for you!\n\nWhy Splitify?\n\nSave Time: Automated calculations save you from doing the math.\nTransparency: Everyone can see who owes what, so there’s no miscommunication.\nFlexibility: Add, edit, and manage group members and transactions effortlessly.\nDownload Splitify now and make splitting expenses a breeze!\n\n\n![image](https://github.com/user-attachments/assets/8bc482d7-5d10-4913-8eea-5d203351d94b)  \n![image](https://github.com/user-attachments/assets/f5bc8ce9-e805-4e95-a79b-220ae400af8d) \n![image](https://github.com/user-attachments/assets/31922eeb-9a4a-4f7f-96b0-82c1b04fd13a) \n![image](https://github.com/user-attachments/assets/a3a318b7-ecec-4bc5-9767-b096b2723fee)\n\n\n\n\n\n",
 		first_image_url:
 			"https://github.com/user-attachments/assets/8bc482d7-5d10-4913-8eea-5d203351d94b",
 	},
